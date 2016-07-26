@@ -5,7 +5,7 @@ chapter1_name = 'Chapter 1: Getting Started'
 chapter1_page = 'page 1'
 chapter2_name = 'Chapter 2: Numbers'
 chapter2_page = 'page 9'
-chapter3_name = 'Chpater 3: Letters'
+chapter3_name = 'Chapter 3: Letters'
 chapter3_page = 'page 13'
 
 puts ''
